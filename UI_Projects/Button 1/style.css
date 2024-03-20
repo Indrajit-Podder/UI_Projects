@@ -1,0 +1,18 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.btn-monchrome {
+  padding: 15px 20px;
+  border-radius: 15px;
+  border: 2px solid #000;
+  font-size: 20px;
+  font-weight: bold;
+}
